@@ -1,0 +1,17 @@
+//----------------------------------------------------//
+// FONTS                                              //
+//----------------------------------------------------//
+
+
+// light
+@font-face {
+  font-family: '';
+  src: url('../fonts/');
+  src: url('../fonts/?#iefix') format('embedded-opentype'),
+     url('../fonts/') format('woff2'),
+     url('../fonts/') format('woff'),
+     url('../fonts/') format('truetype'),
+     url('../fonts/') format('svg');
+  font-weight: 300;
+  font-style: normal;
+}
